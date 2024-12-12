@@ -1,0 +1,10 @@
+tutorial cara pake code ini
+
+pertama, pastiin kamu punya package pyautogui
+(kalo belum punya klik link ini https://pypi.org/project/PyAutoGUI/)
+
+2. buka terminal ketik pip install PyAutoGUI
+
+3. tunggu sampai downloadnya kelar
+
+selamat, kodenya bisa kamu pake sekarang
